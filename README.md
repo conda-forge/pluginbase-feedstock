@@ -14,12 +14,15 @@ Summary: A support library for building plugins sytems in Python.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/pluginbase-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pluginbase-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pluginbase-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pluginbase-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pluginbase/badges/version.svg)](https://anaconda.org/conda-forge/pluginbase)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pluginbase/badges/downloads.svg)](https://anaconda.org/conda-forge/pluginbase)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pluginbase-green.svg)](https://anaconda.org/conda-forge/pluginbase) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pluginbase.svg)](https://anaconda.org/conda-forge/pluginbase) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pluginbase.svg)](https://anaconda.org/conda-forge/pluginbase) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pluginbase.svg)](https://anaconda.org/conda-forge/pluginbase) |
 
 Installing pluginbase
 =====================
