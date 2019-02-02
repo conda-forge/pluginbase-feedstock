@@ -1,6 +1,6 @@
 {% set name = "pluginbase" %}
-{% set version = "0.5" %}
-{% set sha256 = "b4f830242a078a4f44c978a84f3365bba4d008fdd71a591c71447f4df35354dd" %}
+{% set version = "1.0.0" %}
+{% set sha256 = "497894df38d0db71e1a4fbbfaceb10c3ef49a3f95a0582e11b75f8adaa030005" %}
 
 package:
   name: {{ name|lower }}
